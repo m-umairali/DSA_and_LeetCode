@@ -1,2 +1,2 @@
-# DSA_and_LeetCode
-All about DSA and Practice Problems of Leetcode
+# leet_code
+DSA Practice problems in Python
